@@ -46,3 +46,4 @@ endfunction(alds_test)
 
 alds_test("test/alds/sort/1_1_d_maximum_profit.cpp")
 alds_test("test/alds/sort/1_1_a_insertion_sort.cpp")
+alds_test("test/alds/sort/1_2_a_bubble_sort.cpp")
