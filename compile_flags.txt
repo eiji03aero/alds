@@ -1,4 +1,5 @@
 -I./include
+-I./test
 -I./build/googletest-src/googletest/include
 -xc++
 -Wall

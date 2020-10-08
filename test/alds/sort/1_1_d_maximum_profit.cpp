@@ -4,14 +4,14 @@
 
 #include "gtest/gtest.h"
 
-TEST(MaximumProfit, Test1) {
+TEST(MaximumProfitTest, Test1) {
   std::vector<int> input { 5, 3, 1, 3, 4, 3 };
   int result = alds::sort::maximum_profit(input);
   int expected = 3;
   EXPECT_EQ(result, expected);
 };
 
-TEST(MaximumProfit, Test2) {
+TEST(MaximumProfitTest, Test2) {
   std::vector<int> input { 4, 3, 2 };
   int result = alds::sort::maximum_profit(input);
   int expected = -1;
