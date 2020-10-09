@@ -5,7 +5,7 @@
 
 #include "gtest/gtest.h"
 
-TEST(MaximumProfitTest, Test1) {
+TEST(BubbleSortTest, Test1) {
   std::vector<int> input { 5, 3, 2, 4, 1 };
   alds::sort::bubble_sort(input);
   std::vector<int> expected { 1, 2, 3, 4, 5 };
