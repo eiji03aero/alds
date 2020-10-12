@@ -7,7 +7,6 @@
 namespace alds { namespace data {
 
 struct Stack {
-public:
   void push(int i) {
     data.push_back(i);
   }
