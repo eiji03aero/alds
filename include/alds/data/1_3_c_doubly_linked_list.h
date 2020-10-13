@@ -1,5 +1,5 @@
-#ifndef ALDS_DATA_1_3_C_DOUBLY_LINKED_LIST
-#define ALDS_DATA_1_3_C_DOUBLY_LINKED_LIST
+#ifndef ALDS_DATA_1_3_C_DOUBLY_LINKED_LIST_H_INCLUDED
+#define ALDS_DATA_1_3_C_DOUBLY_LINKED_LIST_H_INCLUDED
 
 #include <string>
 #include <vector>
@@ -109,4 +109,4 @@ std::vector<int> execute_list_commands(std::vector<ListCommand> &input) {
 } /* namespace data */
 } /* namespace alds */
 
-#endif /* ifndef ALDS_DATA_1_3_C_DOUBLY_LINKED_LIST */
+#endif /* ifndef ALDS_DATA_1_3_C_DOUBLY_LINKED_LIST_H_INCLUDED */

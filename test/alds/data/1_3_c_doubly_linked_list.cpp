@@ -6,7 +6,7 @@
 
 #include "gtest/gtest.h"
 
-TEST(QueueTest, Test1) {
+TEST(DoublyLinkedListTest, Test1) {
   std::vector<alds::data::ListCommand> input {
     {"insert", 6},
     {"insert", 5},
