@@ -77,7 +77,6 @@ std::vector<bool> test_dictionary(std::vector<std::vector<std::string>> input) {
   return result;
 }
 
-
 } /* namespace search */
 } /* namespace alds */
 
