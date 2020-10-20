@@ -1,5 +1,5 @@
-#ifndef ALDS_SORT_1_5_MERGE_SORT_H_INCLUDED
-#define ALDS_SORT_1_5_MERGE_SORT_H_INCLUDED
+#ifndef ALDS_SORT_1_5_BMERGE_SORT_H_INCLUDED
+#define ALDS_SORT_1_5_BMERGE_SORT_H_INCLUDED
 
 #include <vector>
 #include <limits>
@@ -51,4 +51,4 @@ void merge_sort(std::vector<int> &input, int left, int right) {
 } /* namespace sort */
 } /* namespace alds */
 
-#endif /* ifndef ALDS_SORT_1_5_MERGE_SORT_H_INCLUDED */
+#endif /* ifndef ALDS_SORT_1_5_BMERGE_SORT_H_INCLUDED */
