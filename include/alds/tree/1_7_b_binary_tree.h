@@ -1,5 +1,5 @@
-#ifndef ALDS_SORT_1_7_A_ROOTED_TREES_H_INCLUDED
-#define ALDS_SORT_1_7_A_ROOTED_TREES_H_INCLUDED
+#ifndef ALDS_SORT_1_7_B_BINARY_TREE_H_INCLUDED
+#define ALDS_SORT_1_7_B_BINARY_TREE_H_INCLUDED
 
 #include <vector>
 #include <string>
@@ -111,4 +111,4 @@ std::vector<NodeInfo> solve(std::vector<NodeInput> &input) {
 } /* namespace sort */
 } /* namespace alds */
 
-#endif /* ifndef ALDS_SORT_1_7_A_ROOTED_TREES_H_INCLUDED */
+#endif /* ifndef ALDS_SORT_1_7_B_BINARY_TREE_H_INCLUDED */
