@@ -1,5 +1,5 @@
-#ifndef ALDS_TREE_1_9_A_COMPLETE_BINARY_TREE_HINCLUDED
-#define ALDS_TREE_1_9_A_COMPLETE_BINARY_TREE_HINCLUDED
+#ifndef ALDS_TREE_1_9_A_COMPLETE_BINARY_TREE_H_INCLUDED
+#define ALDS_TREE_1_9_A_COMPLETE_BINARY_TREE_H_INCLUDED
 
 #include <string>
 #include <vector>
@@ -41,4 +41,4 @@ std::vector<NodeInfo> solve(std::vector<int> &input) {
 } /* namespace tree */
 } /* namespace alds */
 
-#endif /* ifndef ALDS_TREE_1_9_A_COMPLETE_BINARY_TREE_HINCLUDED */
+#endif /* ifndef ALDS_TREE_1_9_A_COMPLETE_BINARY_TREE_H_INCLUDED */
