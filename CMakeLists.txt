@@ -82,3 +82,4 @@ alds_test("test/alds/dynamic_programming/1_10_b_matrix_chain_multiplication.cpp"
 alds_test("test/alds/graph/1_11_a_graph.cpp")
 alds_test("test/alds/graph/1_11_b_depth_first_search.cpp")
 alds_test("test/alds/graph/1_11_c_breadth_first_search.cpp")
+alds_test("test/alds/graph/1_11_d_connected_components.cpp")
