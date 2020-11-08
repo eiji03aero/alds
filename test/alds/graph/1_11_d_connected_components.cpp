@@ -4,12 +4,6 @@
 #include "gtest/gtest.h"
 
 TEST(ConnectedComponentsTest, Test1) {
-  std::vector<std::vector<int>> input = {
-    {1,2,2,4},
-    {2,1,4},
-    {3,0},
-    {4,1,3},
-  };
   int num_users = 10;
   std::vector<std::vector<int>> users = {
     {0,1},
